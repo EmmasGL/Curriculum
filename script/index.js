@@ -1,4 +1,6 @@
-// script.js
+console.log("Prueba")
+
+
 fetch('/locales-app/data.json')
   .then(response => response.json())
   .then(data => {
