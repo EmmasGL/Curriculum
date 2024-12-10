@@ -15,7 +15,7 @@ body {
 .header {
   text-align: center;
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.9)), 
-                    url('/img/testura.jpeg');
+                    url(../img/testura.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
