@@ -1,7 +1,7 @@
 
     let data = {
       "header": {
-        "name": "Emmanuel García",
+        "name": "Emmanuel Gomez Luna",
         "subtitle": "Desarrollador Frontend | Creativo | Innovador",
         "profileImage": "./img/perfil.jpeg"
       },
