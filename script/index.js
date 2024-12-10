@@ -3,7 +3,7 @@
       "header": {
         "name": "Emmanuel Gomez Luna",
         "subtitle": "Desarrollador Frontend | Creativo | Innovador",
-        "profileImage": "./img/perfil.jpeg"
+        "profileImage": "img/perfil.jpeg"
       },
       "about": {
         "title": "Sobre mí",
