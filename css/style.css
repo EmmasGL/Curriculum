@@ -59,6 +59,10 @@ body {
   animation: fadeIn 1.5s ease-in-out;
 }
 
+span {
+   font-family:'Times New Roman', Times, serif;
+   font-weight: 900;
+}
 .card {
   margin-top: 1rem;
   padding: 1rem;
